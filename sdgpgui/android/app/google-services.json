@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164143374896",
+    "project_id": "detecxster",
+    "storage_bucket": "detecxster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164143374896:android:ba5038700bba73c7cb43f5",
+        "android_client_info": {
+          "package_name": "com.detecxster.sdgpgui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164143374896-acgn92oahu5j0vjjfsi0tni0029p1jac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVmpi270ixPzR_wnR2ZVQJJoX8WoZExaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164143374896-acgn92oahu5j0vjjfsi0tni0029p1jac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
