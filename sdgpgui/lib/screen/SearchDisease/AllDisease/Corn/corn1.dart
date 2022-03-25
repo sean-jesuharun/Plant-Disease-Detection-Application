@@ -38,7 +38,15 @@ class _cornoneState extends State<cornone> {
               height: 10.0,
             ),
 
-              Text('Solutions',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25,),)
+              Text('Solutions',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25,),),
+              SizedBox(
+              height: 10.0,
+),
+
+              Text(
+                'Disease management tactics include using resistant corn hybrids, conventional tillage where appropriate, and crop rotation. Foliar fungicides can be effective if economically warranted. Typically they are only profitable on susceptible inbreds or susceptible hybrids under a combination of high risk conditions with high yield potential, prolonged humid conditions, and evidence of disease development.',  
+                style: TextStyle(fontSize: 20.0),  
+              )
             ],  
           ),  
         ),  

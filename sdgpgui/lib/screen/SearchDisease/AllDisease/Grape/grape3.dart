@@ -38,7 +38,15 @@ class _grapethreeState extends State<grapethree> {
               height: 10.0,
             ),
 
-              Text('Solutions',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25,),)
+              Text('Solutions',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25,),),
+              SizedBox(
+              height: 10.0,
+              ),
+
+              Text(
+                'Only source high health status preferably certified plant material from reliable and accredited suppliers. Check your vineyard frequently for the presence of new pests and investigate any sick grapevines for unusual symptoms. Make sure you are familiar with common grapevine pests so you can tell if you see something different.Keep records of anything unusual',  
+                style: TextStyle(fontSize: 20.0),  
+              )
             ],  
           ),  
         ),  

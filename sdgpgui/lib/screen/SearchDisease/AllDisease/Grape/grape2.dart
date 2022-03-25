@@ -38,7 +38,15 @@ class _grapetwoState extends State<grapetwo> {
               height: 10.0,
             ),
 
-              Text('Solutions',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25,),)
+              Text('Solutions',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25,),),
+              SizedBox(
+              height: 10.0,
+              ),
+
+              Text(
+                'Select an open planting site with direct sunlight. Plant rows in the direction of the prevailing wind in order to promote good air circulation and faster drying of foliage and fruit. Prune and train vines properly in such as way as to reduce shading and increase air circulation.',  
+                style: TextStyle(fontSize: 20.0),  
+              )
             ],  
           ),  
         ),  

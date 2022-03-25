@@ -30,7 +30,7 @@ class _cornthreeState extends State<cornthree> {
             ),
 
               Text(  
-                  'Northern corn leaf blight (NCLB) or Turcicum leaf blight (TLB) is a foliar disease of corn (maize) caused by Exserohilum turcicum.',  
+                  'Northern corn leaf blight (NCLB) or Turcicum leaf blight (TLB) is a foliar disease of corn (maize) caused by Exserohilum turcicum.The disease is most prevalent during moderate temperatures (64 to 80 degrees F) with prolonged periods of moisture. It typically appears at or after silking, but the disease is usually more severe when infection occurs earlier.',  
                   style: TextStyle(fontSize: 20.0),  
               ),
 
@@ -38,7 +38,15 @@ class _cornthreeState extends State<cornthree> {
               height: 10.0,
             ),
 
-              Text('Solutions',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25,),)
+              Text('Solutions',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25,),),
+              SizedBox(
+              height: 10.0,
+              ),
+
+              Text(
+                'Use resistant hybrids. Fungicides may be warranted on inbreds for seed production during the early stages of this disease. Crop rotation and tillage practices may be helpful in some cases.',  
+                style: TextStyle(fontSize: 20.0),  
+              )
             ],  
           ),  
         ),  
