@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19205165808",
+    "firebase_url": "https://my-detabase-f4d41-default-rtdb.firebaseio.com",
+    "project_id": "my-detabase-f4d41",
+    "storage_bucket": "my-detabase-f4d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19205165808:android:b85594124c942c399a6835",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19205165808-oilt7ks90k3cfdco529i8s6ad6u478op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYU8ChxIe4OlHSEYO4NP4XhEa1IpGn4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19205165808-oilt7ks90k3cfdco529i8s6ad6u478op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
